@@ -1,0 +1,1 @@
+Default speed is 1 message per one second, for this speed discord wont warn you with "Chill zone" message
